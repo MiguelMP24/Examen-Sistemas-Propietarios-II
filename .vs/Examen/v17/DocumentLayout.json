@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikes\\source\\repos\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|c:\\users\\mikes\\source\\repos\\examen\\servicios.api.proveedores\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|solutionrelative:servicios.api.proveedores\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|c:\\users\\mikes\\source\\repos\\examen\\servicios.api.proveedores\\models\\modeloproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|solutionrelative:servicios.api.proveedores\\models\\modeloproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|c:\\users\\mikes\\source\\repos\\examen\\servicios.api.proveedores\\persistence\\contextoproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|solutionrelative:servicios.api.proveedores\\persistence\\contextoproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|c:\\users\\mikes\\source\\repos\\examen\\servicios.api.proveedores\\app\\nuevoproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|solutionrelative:servicios.api.proveedores\\app\\nuevoproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|c:\\users\\mikes\\source\\repos\\examen\\servicios.api.proveedores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|solutionrelative:servicios.api.proveedores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|c:\\users\\mikes\\source\\repos\\examen\\servicios.api.proveedores\\app\\actualizarproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|solutionrelative:servicios.api.proveedores\\app\\actualizarproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|c:\\users\\mikes\\source\\repos\\examen\\servicios.api.proveedores\\app\\modeloproveedoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD82F0E1-4670-46D5-8D3D-8440DD22C684}|Servicios.Api.Proveedores\\Servicios.Api.Proveedores.csproj|solutionrelative:servicios.api.proveedores\\app\\modeloproveedoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContextoProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\Persistence\\ContextoProveedores.cs",
+              "RelativeDocumentMoniker": "Servicios.Api.Proveedores\\Persistence\\ContextoProveedores.cs",
+              "ToolTip": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\Persistence\\ContextoProveedores.cs",
+              "RelativeToolTip": "Servicios.Api.Proveedores\\Persistence\\ContextoProveedores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:08:55.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActualizarProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\App\\ActualizarProveedores.cs",
+              "RelativeDocumentMoniker": "Servicios.Api.Proveedores\\App\\ActualizarProveedores.cs",
+              "ToolTip": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\App\\ActualizarProveedores.cs",
+              "RelativeToolTip": "Servicios.Api.Proveedores\\App\\ActualizarProveedores.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:07:41.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModeloProveedoresDto.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\App\\ModeloProveedoresDto.cs",
+              "RelativeDocumentMoniker": "Servicios.Api.Proveedores\\App\\ModeloProveedoresDto.cs",
+              "ToolTip": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\App\\ModeloProveedoresDto.cs",
+              "RelativeToolTip": "Servicios.Api.Proveedores\\App\\ModeloProveedoresDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:07:26.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModeloProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\Models\\ModeloProveedores.cs",
+              "RelativeDocumentMoniker": "Servicios.Api.Proveedores\\Models\\ModeloProveedores.cs",
+              "ToolTip": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\Models\\ModeloProveedores.cs",
+              "RelativeToolTip": "Servicios.Api.Proveedores\\Models\\ModeloProveedores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:05:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\Program.cs",
+              "RelativeDocumentMoniker": "Servicios.Api.Proveedores\\Program.cs",
+              "ToolTip": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\Program.cs",
+              "RelativeToolTip": "Servicios.Api.Proveedores\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:01:14.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuevoProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\App\\NuevoProveedor.cs",
+              "RelativeDocumentMoniker": "Servicios.Api.Proveedores\\App\\NuevoProveedor.cs",
+              "ToolTip": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\App\\NuevoProveedor.cs",
+              "RelativeToolTip": "Servicios.Api.Proveedores\\App\\NuevoProveedor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T01:51:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "Servicios.Api.Proveedores\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\mikes\\source\\repos\\Examen\\Servicios.Api.Proveedores\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "Servicios.Api.Proveedores\\Controllers\\ProveedorController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T01:51:32.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
